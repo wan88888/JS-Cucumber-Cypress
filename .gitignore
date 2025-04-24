@@ -15,7 +15,7 @@ cypress/fixtures/example.json
 # 环境变量和本地配置
 .env
 .env.local
-cypress.env.json
+# cypress.env.json 已移除，允许提交到版本控制
 
 # IDE和编辑器相关
 .idea/
